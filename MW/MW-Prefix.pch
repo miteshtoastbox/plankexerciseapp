@@ -1,0 +1,27 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define IS_DEVICE_RUNNING_IOS_7_AND_ABOVE() ([[[UIDevice currentDevice] systemVersion] compare:@"7.0" options:NSNumericSearch] != NSOrderedAscending)
+#define iPhone4Or5oriPad ([[UIScreen mainScreen] bounds].size.height == 568 ? 5 : ([[UIScreen mainScreen] bounds].size.height == 480 ? 4 : 999))
+
+#define     INAPP_PRODUCT_ID                @"PlankProUpgrade"
+#define     INAPP_ENABLE                    @"purchaseEnable"
+#define     INAPP_SUCCESS                   @"PurchaseSuccess"
+#define     INAPP_PURCHASED                 @"Purchased"
+
+#define     INAPP_FAIL                    @"purchaseFail"
+#define SELECTED_FILES          @"SELECTED_FILES123"

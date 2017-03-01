@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MWPersonalTrainerTableViewController tableView:cellForRowAtIndexPath:]:MWPersonalTrainerTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "butt.tag">
+            </PersistentString>
+            <PersistentString
+               value = "btn.tag">
+            </PersistentString>
+            <PersistentString
+               value = "cell.textLabel">
+            </PersistentString>
+            <PersistentString
+               value = "[btn image];">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWPersonalTrainerTableViewController populateCells]:MWPersonalTrainerTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWPersonalTrainerTableViewController tableView:numberOfRowsInSection:]:MWPersonalTrainerTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWPTViewController initiateExStage0:]:MWPTViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentT - stopExTime + intervalSet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWViewController go:]:MWViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWViewController isEqualTo0OrNil:]:MWViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWExcerciseViewController getNumeric:]:MWExcerciseViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWViewController pickerView:didSelectRow:inComponent:]:MWViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Globals getInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWResetPBTimeViewController exerciseImageButtonPressed:]:MWResetPBTimeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "butt.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DataAccess getExTypes]:DataAccess.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWFirstExerciseState instate:]:MWFirstExerciseState.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "stopTime - [self currentTime]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWRestTimeViewController pickerView:didSelectRow:inComponent:]:MWRestTimeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Globals getInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWPersonalTrainerTableViewController prepareForSegue:sender:]:MWPersonalTrainerTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "butt.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MWPTViewController viewDidLoad]:MWPTViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MWExcerciseViewController getSecondsFromHoursString:andMinString:andSecString:]:MWExcerciseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "andMinString">
+            </PersistentString>
+            <PersistentString
+               value = "[self getNumeric: hoursString]">
+            </PersistentString>
+            <PersistentString
+               value = "minString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
